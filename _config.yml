@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Melanie Gruben / Academic Curriculum Vitae"
+title                    : "Melanie Gruben / Curriculum Vitae"
 title_separator          : "-"
 name                     : &name "Melanie Gruben"
 description              : &description "Publication, Teaching, and Speaking Experience"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/1788968376289.jpg"
+  avatar           : "1788968376289.jpg"
   name             : "Melanie Gruben"
   pronouns         :  "she/her"  
   bio              : "Cyberpsychology researcher teaching in Ireland."
