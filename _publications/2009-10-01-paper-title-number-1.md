@@ -1,5 +1,5 @@
 ---
-title: "''It's Like Not Being Able to Read and Write'': Narrowing the Digital Divide for Older Adults and Leveraging the Role of Digital Educators in Ireland. "
+title: ''It's Like Not Being Able to Read and Write'': Narrowing the Digital Divide for Older Adults and Leveraging the Role of Digital Educators in Ireland. "
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
